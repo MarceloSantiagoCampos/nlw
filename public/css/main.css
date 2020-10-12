@@ -9,7 +9,7 @@
 }
 
 body {
-    height: 100vh; 
+    height: 100vh;
     /* pega 100% do Viewport height (viewport esta no arquivo html <meta name="viewport" content="width=device-width, initial-scale=1.0" />*/
     color: white;
 }
@@ -19,12 +19,6 @@ body, input, button, textarea {
     font-size: 18px;
     line-height: 1;
     font-family: 'Nunito', sans-serif;*/
-    font: 400 1.8rem/1 'Nunito',sans-serif;
+    font: 400 1.8rem/1 'Nunito', sans-serif;
     /* rem significa  unidade de medida do Root Element por padrão 16px, mas setada por nós, no segmento :root como 10 px, fazendo 1.8 rem valer 18px */
-}
-
-#page-landing {
-    background: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
-    text-align: center;
-    min-height: 100vh;
 }
