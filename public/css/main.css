@@ -1,6 +1,10 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    /* padrão é center-box: que faz com que o width seja calculado por dentro da caixa, ou seja desconsidera o padding
+    border-box: faz com que o width seja contado como de bordar a borda 
+    verificar o page-orphanages.css*/
 }
 
 :root {
