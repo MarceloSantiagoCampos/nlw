@@ -16,6 +16,7 @@ body {
     height: 100vh;
     /* pega 100% do Viewport height (viewport esta no arquivo html <meta name="viewport" content="width=device-width, initial-scale=1.0" />*/
     color: white;
+    background-color: #ebf2f5;
 }
 
 body, input, button, textarea {
